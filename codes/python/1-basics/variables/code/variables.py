@@ -22,7 +22,7 @@ all_variables_list = ops.get_collection(ops.GraphKeys.GLOBAL_VARIABLES)
 ######## Customized initializer ############
 ############################################
 
-## Initialation of some custom variables.
+## Initialization of some custom variables.
 ## In this part we choose some variables and only initialize them rather than initializing all variables.
 
 # "variable_list_custom" is the list of variables that we want to initialize.
