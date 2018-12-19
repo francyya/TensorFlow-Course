@@ -10,7 +10,7 @@ Install TensorFlow from the source
 
 
 
-The installation is available at `TensorFlow`_. Installation from the source is recommended because the user can build the desired TensorFlow binary for the specific architecture. It enriches the TensoFlow with a better system compatibility and it will run much faster. Installing from the source is available at `Installing TensorFlow from Sources`_ link. The official TensorFlow explanations are concise and to the point. However. few things might become important as we go through the installation. We try to project the step by step process to avoid any confusion. The following sections must be considered in the written order.
+The installation is available at `TensorFlow`_. Installation from the source is recommended because the user can build the desired TensorFlow binary for the specific architecture. It enriches the TensorFlow with a better system compatibility and it will run much faster. Installing from the source is available at `Installing TensorFlow from Sources`_ link. The official TensorFlow explanations are concise and to the point. However. few things might become important as we go through the installation. We try to project the step by step process to avoid any confusion. The following sections must be considered in the written order.
 
 The assumption is that installing TensorFlow in the ``Ubuntu`` using ``GPU support`` is desired. ``Python2.7`` is chosen for installation.
 
